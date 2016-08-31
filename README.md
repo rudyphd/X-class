@@ -1,6 +1,6 @@
 # X-class
 
-# Training Sources
+# Training 
 
 ![alt text](https://github.com/rudyphd/X-class/blob/master/trials.png "Training Set")
 
