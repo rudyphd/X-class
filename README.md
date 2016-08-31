@@ -1,6 +1,9 @@
 # X-class
 
-# Training 
+Event-based Source and Source Detection Identification
+
+
+# Training  
 
 ![alt text](https://github.com/rudyphd/X-class/blob/master/trials.png "Training Set")
 
